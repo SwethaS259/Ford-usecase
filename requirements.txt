@@ -1,0 +1,31 @@
+# requirements.txt
+
+# Core web framework
+flask==2.3.3
+
+# PyTorch ecosystem
+torch
+torchaudio
+
+# Hugging Face transformers
+transformers
+accelerate
+huggingface_hub
+
+# Audio processing
+librosa==0.10.1
+soundfile
+audioread
+
+# Image processing
+pillow
+numpy
+
+# Utilities
+python-dotenv
+requests
+
+# Text processing
+sentencepiece
+protobuf
+tokenizers
